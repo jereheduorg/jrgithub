@@ -20,10 +20,7 @@
     
 }
 
-- (void) show{
 
-    NSLog(@"hello jereh");
-}
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
