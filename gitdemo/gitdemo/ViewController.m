@@ -20,8 +20,10 @@
     
 }
 
-- (void) show{
 
+
+- (void) show{
+    
     NSLog(@"hello jereh");
 }
 
